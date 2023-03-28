@@ -1,0 +1,25 @@
+#Chatbot Training Data Collecting: 
+If you were a student interested in applying to Monash University, which questions would you want to ask the university's chatbot, capable of answering any query?
+Ms #Chamathka got a summer #Internship in the USA when she is 20.
+Mr Rohitha #Rajapakse launched a #satellite🛰️ at the age of 23.
+Me: spent a whopping 3 f**king years in university and then became an underpaid intern at a software company at the ripe old age of 24.
+#WeAreLosers
+Spent my afternoon at Surani's place, cleaning up her mess like a good boy. I deserve a medal or at least a good scratching post. 😼
+ #domesticatedlife #Polly #PollytheCat #catthoughts
+ දෙයක් විකිණීමෙන් පසු යමෙක් සිංහයෙකු ලෙසින් හැසිරේද හෙතෙම #වික්‍රමසිංහ නම්වේ ෴
+ 1. Send an HTTP request to the webpage 
+2. Parse HTML content using #BeautifulSoup 
+3. Navigate and search through the parsed data 
+4. Extract required information using tag names or CSS selectors 
+5. Store data in the desired format
+Here’s an update, we started an organic agriculture project called “Scattered Harvest” last year during all the turmoil. It was our solution to the fertilizer crisis + forex crisis.
+
+Last week we made our first shipment, the business is now cashflow positive.
+Cardio exercises should be done for half an hour a day😁 Must reduce sweet and starchy foods😁
+Yesterday, I received my salary and it was 13% lower than the previous month because of the rupee's appreciation. #ThankYouMrPresident
+Meta AI researchers show how current language models differ from the human brain & highlight the role of long-range & hierarchical predictions.
+
+Read the open accessed article in Nature
+Just used #jaal for #Twitter network data visualization and it's amazing! This pip package is perfect for creating interactive dashboards for network data visualizations. Huge thanks to 
+@imohitmayank
+ for creating such a fantastic product. Highly recommend it! #datavis #python
